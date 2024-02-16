@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Pedro. Seja bem-vindo!
 
 <b>Linguagens de programação: </b><br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />  
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 <b>Framework:</b><br>
 <img src="https://img.shields.io/badge/Laravel-FF4500?style=for-the-badge&logo=laravel&logoColor=white" />  
